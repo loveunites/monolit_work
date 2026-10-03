@@ -1,0 +1,7 @@
+.git/
+.playwright-mcp/
+output/
+docs/
+scripts/
+__pycache__/
+*.pyc
